@@ -12,3 +12,8 @@ def multiply(a,b):
 
 
 print"Bye World"
+
+
+
+def square(x):
+    return x**2
